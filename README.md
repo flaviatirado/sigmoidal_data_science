@@ -14,11 +14,11 @@ Sou uma entusiasta de Ciência de Dados com uma formação acadêmica em Ciênci
 
 Minha paixão pela Ciência de Dados vem da minha curiosidade em entender como os dados podem impulsionar a tomada de decisões estratégicas nas organizações.
 
-Durante meus estudos, adquiri experiência prática na linguagem de programação Python.
+Durante meus estudos, venho adquirindo experiência prática na linguagem de programação Python.
 
 Estou sempre buscando novos desafios que me permitam expandir meu conhecimento e aplicar minhas habilidades em projetos empolgantes de Ciência de Dados. Meu objetivo é contribuir para soluções inovadoras e impactantes que ajudem a transformar dados brutos em informações valiosas.
 
-Além do meu interesse em dados, também sou uma entusiasta da leitura e adoro explorar novos tópicos relacionados a negócios, tecnologia e inovação. Sempre em busca de aprendizado contínuo e compartilhamento de conhecimento!
+Além do meu interesse em dados, também sou uma entusiasta da leitura e adoro explorar novos tópicos relacionados a negócios, tecnologia, inovação e desenvolvimento pessoal. Sempre em busca de aprendizado contínuo e compartilhamento de conhecimento!
 
 Se você está interessado em colaborar em projetos emocionantes ou trocar ideias sobre Ciência de Dados, não hesite em entrar em contato. Acredito que o compartilhamento de conhecimento é essencial para o crescimento profissional.
 
