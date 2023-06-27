@@ -26,7 +26,8 @@ Se você está interessado em colaborar em projetos emocionantes ou trocar ideia
 **Background in:** Python, Machine Learning
 
 **Links:**
-* [LinkedIn] (https://br.linkedin.com/in/fl%C3%A1via-tirado-de-oliveira-62012491)
+* [LinkedIn](https://br.linkedin.com/in/fl%C3%A1via-tirado-de-oliveira-62012491)
+
 
 ---
 
